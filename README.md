@@ -1,4 +1,4 @@
-<img src="logo.png",width=200,height=200>
+![](logo.png)
 
 # Unidad: Regresíon - Sesión 2
 
