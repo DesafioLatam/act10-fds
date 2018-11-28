@@ -2,7 +2,7 @@
 
 # Unidad: Regresíon - Sesión 2
 
-### Regresión (desde la econometría)
+### Regresión (desde el Aprendizaje de Máquinas)
 
 ## Sobre el ejemplo
 
